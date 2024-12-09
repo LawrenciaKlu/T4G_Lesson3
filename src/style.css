@@ -1,0 +1,29 @@
+p{background-color: rgb(148, 242, 210);
+    padding: 40px;
+    font-size: small 14;
+    font-family: serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: capitalize;
+    letter-spacing: 6px;
+    line: height 20px;
+    text-align: left;
+    width: 50%;
+    }
+    .vacation{
+        width: 40%;
+    }
+    .vacation_button{
+        width: 10%;
+    }
+    .vacation_image{
+        width: 60%;
+    }
+    .vacation_paragraph{
+        width:60%;
+        font-size: 18px;
+    }
+    .vacation_container{
+        display: flex;
+        flex-wrap: wrap;
+    }
